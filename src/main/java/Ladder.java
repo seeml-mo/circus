@@ -8,4 +8,5 @@ public class Ladder extends Equipment {
     public int getValue() {
         return purchasePrice / 2;
     }
+
 }
